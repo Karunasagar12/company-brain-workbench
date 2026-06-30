@@ -12,6 +12,10 @@ AI employees fail when they ask the same question twice.
 
 Company Brain Workbench turns human corrections into structured decision memory, so future workflows resolve automatically instead of escalating again.
 
+<p align="center">
+  <img src="./assets/company-brain-workbench-demo.gif" alt="Company Brain Workbench guided demo: Priya escalates, a rule is learned, and Omar auto-resolves" width="900">
+</p>
+
 ## Demo in 60 Seconds
 
 1. **Priya Sharma joins as a Sales Engineer in Dubai.** The system detects that the role can map to Sales or Engineering and refuses to guess.
@@ -78,6 +82,12 @@ Use the **Run guided demo** button to execute:
 ```text
 Reset demo → Priya ambiguity → human resolution → brain rule created → Omar auto-resolved
 ```
+
+### Screenshots
+
+| Empty brain | Rule learned and applied |
+|---|---|
+| ![Company Brain Workbench initial state](./assets/company-brain-workbench-initial.png) | ![Company Brain Workbench completed demo](./assets/company-brain-workbench-completed.png) |
 
 ## API Surface
 
